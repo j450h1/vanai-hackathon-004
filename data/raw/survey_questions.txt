@@ -1,0 +1,138 @@
+[TEXT CARD] 
+Hey there! 👋 Today, we’re talking all things music — how you find it, feel it, and share it. This one’s gonna be fun 🎧
+[SINGLE CHOICE] 
+First up — how would you describe your relationship with music? 
+I’m obsessed 🎵  
+I like it, but don’t keep up 
+I’m more of a casual listener 
+Meh — it’s not a big part of my life
+
+[TEXT CARD] 
+Let’s rewind for a sec ⏪
+
+[SINGLE CHOICE] 
+What’s the first way you remember discovering music you loved? 
+The radio 📻 
+Watching MuchMusic or MTV
+LimeWire or Napster 
+Burned CDs or vinyl 
+Spotify or Apple Music 
+TikTok or social media 
+Family or friends 
+Something else
+
+[OPEN END TEXT] 
+What was the first song or artist that really pulled you in?
+[SINGLE CHOICE] Which of these music format changes do you remember most clearly?
+Vinyl to 8-tracks
+8-tracks to cassette tapes
+Cassettes to CDs
+CDs to illegal downloads (Napster, LimeWire)
+Illegal downloads to legal digital (iTunes)
+Digital downloads to streaming (Spotify, Apple Music)
+I haven’t really experienced a big format change
+Not sure
+[OPEN END TEXT] What do you remember about the shift from [INSERT PREVIOUS QUESTIONS RESPONSE] — or how it changed the way you listened?
+[SINGLE CHOICE] How did you feel the last time music formats changed in a big way? I was excited — bring on the new! I missed the old way I resisted it at first, then gave in 😅 Honestly, didn’t notice much Not sure
+[TEXT CARD] 
+Fast forward to now ⏩ How are you finding new music these days?
+[MULTI-CHOICE] 
+How do you usually discover new music? Select all that apply! 
+TikTok or Reels 
+Streaming playlists 
+Friend recs
+Movie/TV soundtracks 
+Shazam or music ID apps 
+Music blogs or critics 
+I don’t. I just replay my faves 🎵 [EXCLUSIVE]
+
+[TEXT CARD] 
+Music = moments. Let’s talk about yours.
+
+[SINGLE CHOICE GRID] 
+When do you listen to music most? 
+Waking up 
+Commuting 
+Working out 
+Cooking 
+Cleaning 
+Unwinding 
+(Response scale: Never / Sometimes / Often / Always)
+
+[TEXT CARD] 
+What kind of vibe runs your playlist lately?
+
+[SINGLE CHOICE] 
+What are you mostly listening to these days? 
+Dancey + upbeat 💃 
+Chill + lo-fi 😌 
+Emotional bangers 😭 
+Rap/hip hop 🔥 
+Classic throwbacks 🎸 
+All over the place 🎲
+
+[TEXT CARD] Now, let’s talk about something a little more futuristic 🤖 AI is now creating songs — even using voices of artists who’ve passed. We’d love your take...
+[SINGLE CHOICE] Would you listen to or share a song made entirely by AI?
+Yes – and I already have Sure I would — if it sounds good, why not? Maybe — I’m curious Nah — I prefer music made by real people Not sure yet
+
+[SINGLE CHOICE] How do you feel about AI using the voices of dead artists to make new songs?
+ I’m into it — it keeps their legacy alive I’m unsure — it depends how it’s done I don’t like it — it feels wrong Hadn’t thought about it before
+
+[TEXT CARD] Time for a little Music Bingo 🎶 Check off anything that sounds like you 👇
+[MULTI-CHOICE] 
+Music Bingo!  
+I’ve made a breakup playlist 💔 
+I’ve played DJ on a road trip 🚗 
+I’ve used music to hype myself up 💪 
+I’ve cried to a sad song 😭 
+I’ve shared a song to flirt 👀 
+I’ve made a playlist just for ✨the vibes✨ 
+I’ve played the same song 10+ times in a row 😅
+
+[TEXT CARD] Let’s talk sharing 📲
+
+[MULTI-CHOICE] 
+How do you usually share music you love? Select all that apply. 
+Texting links to friends 
+Sharing in group chats 
+Posting on social media 
+Curating playlists for others 
+In-person — “You gotta hear this!” 
+I don’t really share music [EXCLUSIVE]
+
+[SINGLE CHOICE] 
+When a friend shares a song with you, what do you really do? 
+Listen right away 
+Save it for later 
+Pretend I listened 😬 
+Depends on the friend!
+
+[SINGLE CHOICE] 
+Be honest… do you have a musical guilty pleasure? 
+Oh yes, and I love it 😅 
+Not really — I stand by my taste! 💁 
+What even is a guilty pleasure? I stand by my taste!
+
+[SINGLE CHOICE] 
+Want to share yours in a quick video? Totally optional! 
+Sure, I’ll do a video 🎥 
+I’d rather type it out ⌨️
+If video: [OPEN END VIDEO] What’s your music guilty pleasure? Spill it 👀
+ If text: [OPEN END TEXT] What’s your music guilty pleasure? Spill it 👀
+[SINGLE CHOICE] ASK ONLY IF video response provided
+Thank you so much for sharing your feedback on video — we really appreciate it!
+ 
+We’re hoping to spotlight a few of these videos across our social media, website, or other marketing materials to help share real voices from our community.
+If your video is selected, would you be comfortable with us using it for these purposes?
+Let us know — and thank you again for being part of the conversation.
+
+Yes, I give my consent for my video to be shared or used by Angus Reid Forum and their clients publicly
+
+No, I don’t give my consent for my video to be shared or used by Angus Reid forum and their clients publicly
+[TEXT CARD] Almost done! Just a few more to go! 
+[OPEN END TEXT] 
+If your life had a theme song right now, what would it be — and why?
+[OPEN END TEXT]
+What’s one song lyric that stuck with you or changed the way you see the world? Share it and who wrote it! 
+[TEXT CARD] 
+Thanks for sharing your music world with us 🎶 You’re officially a legend in our playlist 💫 Please click ‘Continue’ to finish up this survey. 
