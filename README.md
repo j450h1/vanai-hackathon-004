@@ -171,6 +171,17 @@ Using this dataset, create an experience that's **interactive, visual, or narrat
 - **Link to working prototype/demo**, or the file itself
 - **3-minute video walkthrough** (strongly encouraged, especially for interactive projects)
 
+## 🛠️ Toolkit
+
+Suggested tools, not requirements:
+
+- **Cline, RooCode, Cursor, Claude Code** - AI copilots to jam with
+- **v0 by Vercel, Lovable** - interfaces at speed
+- **Udio, Suno, ElevenLabs** - sound experiments
+- **Pika, Runway, Google Veo** - video riffs
+- **p5.js, Processing, Observable** - data paintings
+- **Seedream 4 (ByteDance), Midjourney, Stable Diffusion** - visual generation
+
 ## ❓ Need Help?
 
 ### New to Data Analysis?
