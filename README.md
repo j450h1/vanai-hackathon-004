@@ -1,7 +1,7 @@
 # Vancouver AI Hackathon Round 4: The Soundtrack of Us
 
 ## 🎵 What This Is
-A dataset with **1,261+ survey responses** about how people discover music, what formats they use, and how they feel about AI-generated music. Perfect for creating data visualizations, apps, or insights about music and technology.
+A dataset with **1,000+ survey responses** about how people discover music, what formats they use, and how they feel about AI-generated music. Perfect for creating data visualizations, apps, or insights about music and technology.
 
 ## 🚀 New to GitHub? Start Here
 
@@ -26,7 +26,7 @@ cd vanai-hackathon-004
 ## What's In The Dataset
 
 ### The Data
-- **1,261+ complete responses** from music listeners across Canada
+- **1,000+ complete responses** from music listeners across Canada
 - **19 core questions** covering music discovery, format evolution, and AI attitudes
 - **Rich demographics**: Age, location, education, income, household composition
 - **3,000+ text responses** with sentiment analysis scores
@@ -205,4 +205,4 @@ This dataset is provided for hackathon use. Please respect participant privacy a
 
 ---
 
-**🎯 Ready to start?** Download the data and explore 1,261+ music stories from across Canada!
+**🎯 Ready to start?** Download the data and explore 1,000+ music stories from across Canada!
