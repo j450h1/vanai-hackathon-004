@@ -3,6 +3,14 @@
 ## 🎵 What This Is
 A dataset with **1,000+ survey responses** about how people discover music, what formats they use, and how they feel about AI-generated music. Perfect for creating data visualizations, apps, or insights about music and technology.
 
+### Project Tasks:
+
+- [] Load data into Google BigQuery
+- [] EDA
+- [] Main analysis
+- [] PDF output
+- [] Video overview
+
 ## 🚀 New to GitHub? Start Here
 
 ### Getting the Data (3 Easy Ways)
