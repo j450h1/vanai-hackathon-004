@@ -1,0 +1,346 @@
+[
+  {
+    "name": "participant_id",
+    "type": "STRING"
+  },
+  {
+    "name": "distribution_type",
+    "type": "STRING"
+  },
+  {
+    "name": "distribution_name",
+    "type": "STRING"
+  },
+  {
+    "name": "engagement_id",
+    "type": "STRING"
+  },
+  {
+    "name": "engagement_started_EDT",
+    "type": "STRING"
+  },
+  {
+    "name": "engagement_completed_EDT",
+    "type": "STRING"
+  },
+  {
+    "name": "engagement_participation_status",
+    "type": "STRING"
+  },
+  {
+    "name": "BrokerPanelId",
+    "type": "STRING"
+  },
+  {
+    "name": "Q1_Relationship_with_music",
+    "type": "STRING"
+  },
+  {
+    "name": "Q2_Discovering_music",
+    "type": "STRING"
+  },
+  {
+    "name": "Q3_artist_that_pulled_you_in",
+    "type": "STRING"
+  },
+  {
+    "name": "Q3_artist_that_pulled_you_in_sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Q3_artist_that_pulled_you_in_sentiment_percentage",
+    "type": "STRING"
+  },
+  {
+    "name": "Q4_Music_format_changes",
+    "type": "STRING"
+  },
+  {
+    "name": "Q5_Music_formal_change_impact",
+    "type": "STRING"
+  },
+  {
+    "name": "Q5_Music_formal_change_impact_sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Q5_Music_formal_change_impact_sentiment_percentage",
+    "type": "STRING"
+  },
+  {
+    "name": "Q6_Music_format_change_feelings",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_1",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_2",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_3",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_4",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_5",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_6",
+    "type": "STRING"
+  },
+  {
+    "name": "Q7_New_music_discover_7",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_1",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_2",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_3",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_4",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_5",
+    "type": "STRING"
+  },
+  {
+    "name": "Q8_Music_listen_time_GRID_6",
+    "type": "STRING"
+  },
+  {
+    "name": "Q9_Music_preference_these_days",
+    "type": "STRING"
+  },
+  {
+    "name": "Q10_Songs_by_AI",
+    "type": "STRING"
+  },
+  {
+    "name": "Q11_Use_of_dead_artists_voice_feelings",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_1",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_2",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_3",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_4",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_5",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_6",
+    "type": "STRING"
+  },
+  {
+    "name": "Q12_Music_bingo_7",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_1",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_2",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_3",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_4",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_5",
+    "type": "STRING"
+  },
+  {
+    "name": "Q13_Share_the_music_you_love_6",
+    "type": "STRING"
+  },
+  {
+    "name": "Q14_Friend_shares_a_song",
+    "type": "STRING"
+  },
+  {
+    "name": "Q15_Music_guilty_pleasure",
+    "type": "STRING"
+  },
+  {
+    "name": "Q16_Music_guilty_pleasure_Video_or_text",
+    "type": "STRING"
+  },
+  {
+    "name": "Q16_Music_guilty_pleasure_text_OE",
+    "type": "STRING"
+  },
+  {
+    "name": "Q16_Music_guilty_pleasure_text_OE_sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Q16_Music_guilty_pleasure_text_OE_sentiment_percentage",
+    "type": "STRING"
+  },
+  {
+    "name": "Q17_Video_share_concent",
+    "type": "STRING"
+  },
+  {
+    "name": "Q18_Life_theme_song",
+    "type": "STRING"
+  },
+  {
+    "name": "Q18_Life_theme_song_sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Q18_Life_theme_song_sentiment_percentage",
+    "type": "STRING"
+  },
+  {
+    "name": "Q19_Lyric_that_stuck_with_you",
+    "type": "STRING"
+  },
+  {
+    "name": "Q19_Lyric_that_stuck_with_you_sentiment",
+    "type": "STRING"
+  },
+  {
+    "name": "Q19_Lyric_that_stuck_with_you_sentiment_percentage",
+    "type": "STRING"
+  },
+  {
+    "name": "Gender",
+    "type": "STRING"
+  },
+  {
+    "name": "Education",
+    "type": "STRING"
+  },
+  {
+    "name": "HH_Income_Fine_23",
+    "type": "STRING"
+  },
+  {
+    "name": "Ethnicity_Roll_23",
+    "type": "STRING"
+  },
+  {
+    "name": "Vizmin_23",
+    "type": "STRING"
+  },
+  {
+    "name": "HH_Comp_23",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_Expecting_a_baby",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_2",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_3",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_4",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_5",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_6",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_7",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_8",
+    "type": "STRING"
+  },
+  {
+    "name": "KidsinHH_23_9",
+    "type": "STRING"
+  },
+  {
+    "name": "HH_Under18_23",
+    "type": "STRING"
+  },
+  {
+    "name": "CMA",
+    "type": "STRING"
+  },
+  {
+    "name": "Province",
+    "type": "STRING"
+  },
+  {
+    "name": "Age",
+    "type": "STRING"
+  },
+  {
+    "name": "Region",
+    "type": "STRING"
+  },
+  {
+    "name": "FirstNation_23_1",
+    "type": "STRING"
+  },
+  {
+    "name": "FirstNation_23_2",
+    "type": "STRING"
+  },
+  {
+    "name": "FirstNation_23_3",
+    "type": "STRING"
+  },
+  {
+    "name": "FirstNation_23_4",
+    "type": "STRING"
+  },
+  {
+    "name": "AgeGroup_Broad",
+    "type": "STRING"
+  },
+  {
+    "name": "YOBClosed",
+    "type": "STRING"
+  }
+]

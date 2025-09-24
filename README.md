@@ -5,7 +5,7 @@ A dataset with **1,000+ survey responses** about how people discover music, what
 
 ### Project Tasks:
 
-- [] Load data into Google BigQuery
+- [X] Load data into Google BigQuery
 - [] EDA
 - [] Main analysis
 - [] PDF output
